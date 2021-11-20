@@ -7,5 +7,5 @@ def minus(first_term, second_term):
     return first_term - second_term
 
 
-def test_multiply(self):
+def multiply(first_term, second_term):
     	return first_term * second_term
