@@ -18,3 +18,4 @@ class TestCalculator:
 
    def test_divide(self):
    	assert 81 == calculator.divide(243, 3)
+   	
