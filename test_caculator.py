@@ -19,4 +19,4 @@ class TestCaculator:
    	assert 81 == caculator.divide(243, 3)
 
    def test_powerof(self):
-   	assert 144 == caculator.exponent(12, 12)
+   	assert 144 == caculator.powerof(12, 12)
